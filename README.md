@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about managing small tournaments (like Super Smash Bros.).
+
+<img width="1009" alt="Screen Shot 2021-12-07 at 4 18 03 PM" src="https://user-images.githubusercontent.com/88121887/145107658-1842daca-0bb2-48dc-87de-7982ca726905.png">
+
+
 
 ## Available Scripts
 
